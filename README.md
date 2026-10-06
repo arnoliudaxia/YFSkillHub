@@ -6,3 +6,4 @@
 - `us-patent-download`：使用 USPTO 官方端点下载美国已授权普通发明专利的 PDF，并校验下载结果。
 
 - `feishu2md`：将飞书 / Lark 文档、文件夹或知识库导出为 Markdown 文件，支持单文档下载、文件夹批量下载和知识库导出。工具位于 `feishu2md/scripts/feishu2md.exe`。
+- `p3d-model-extractor`：从 p3d.in 模型分享页提取 Draco/glTF 模型、PBR 纹理，并生成带纹理的单文件 GLB 和 Blender 场景文件。
