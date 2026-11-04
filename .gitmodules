@@ -1,0 +1,12 @@
+[submodule "translate-pdf"]
+	path = translate-pdf
+	url = https://github.com/arnoliudaxia/translate-pdf.git
+[submodule "us-patent-download"]
+	path = us-patent-download
+	url = https://github.com/arnoliudaxia/us-patent-download.git
+[submodule "feishu2md"]
+	path = feishu2md
+	url = https://github.com/arnoliudaxia/feishu2md.git
+[submodule "p3d-model-extractor"]
+	path = p3d-model-extractor
+	url = https://github.com/arnoliudaxia/p3d-model-extractor.git
