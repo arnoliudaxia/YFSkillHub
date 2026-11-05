@@ -1,12 +1,12 @@
-[submodule "translate-pdf"]
-	path = translate-pdf
+[submodule "skill-translate-pdf"]
+	path = skill-translate-pdf
 	url = https://github.com/arnoliudaxia/skill-translate-pdf.git
-[submodule "us-patent-download"]
-	path = us-patent-download
+[submodule "skill-us-patent-download"]
+	path = skill-us-patent-download
 	url = https://github.com/arnoliudaxia/skill-us-patent-download.git
-[submodule "feishu2md"]
-	path = feishu2md
+[submodule "skill-feishu2md"]
+	path = skill-feishu2md
 	url = https://github.com/arnoliudaxia/skill-feishu2md.git
-[submodule "p3d-model-extractor"]
-	path = p3d-model-extractor
+[submodule "skill-p3d-model-extractor"]
+	path = skill-p3d-model-extractor
 	url = https://github.com/arnoliudaxia/skill-p3d-model-extractor.git
