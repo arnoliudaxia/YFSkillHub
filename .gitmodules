@@ -10,3 +10,6 @@
 [submodule "skill-p3d-model-extractor"]
 	path = skill-p3d-model-extractor
 	url = https://github.com/arnoliudaxia/skill-p3d-model-extractor.git
+[submodule "skill-pi-config-sync"]
+	path = skill-pi-config-sync
+	url = https://github.com/arnoliudaxia/skill-pi-config-sync.git
