@@ -10,6 +10,10 @@
 | `p3d-model-extractor` | `skill-p3d-model-extractor` | 从 p3d.in 模型分享页提取 Draco/glTF 模型、PBR 纹理，生成 GLB 与 Blender 场景 | https://github.com/arnoliudaxia/skill-p3d-model-extractor |
 | `pi-config-sync` | `skill-pi-config-sync` | 以计划优先、显式确认和 SHA256/ETag 校验安全同步 Pi 配置 | https://github.com/arnoliudaxia/skill-pi-config-sync |
 
+下面是一些不是我自己写的, 但是很有用的skills
+
+- [Self-Improving + Proactive Agent ](https://skillhub.cn/skills/clawhub_ivangdavila/self-improving)
+
 ## 使用
 
 - 需要某个 skill 时，直接前往上表对应仓库获取，无需先克隆本仓库，也无需 `git clone --recurse-submodules`。
