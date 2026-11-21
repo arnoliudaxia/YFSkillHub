@@ -8,11 +8,12 @@
 | `us-patent-download` | `skill-us-patent-download` | 使用 USPTO 官方端点下载美国已授权发明专利的 PDF，并校验下载结果 | https://github.com/arnoliudaxia/skill-us-patent-download |
 | `feishu2md` | `skill-feishu2md` | 将飞书 / Lark 文档、文件夹或知识库导出为 Markdown | https://github.com/arnoliudaxia/skill-feishu2md |
 | `p3d-model-extractor` | `skill-p3d-model-extractor` | 从 p3d.in 模型分享页提取 Draco/glTF 模型、PBR 纹理，生成 GLB 与 Blender 场景 | https://github.com/arnoliudaxia/skill-p3d-model-extractor |
+| `pi-config-sync` | `skill-pi-config-sync` | 以计划优先、显式确认和 SHA256/ETag 校验安全同步 Pi 配置 | https://github.com/arnoliudaxia/skill-pi-config-sync |
 
 ## 使用
 
 - 需要某个 skill 时，直接前往上表对应仓库获取，无需先克隆本仓库，也无需 `git clone --recurse-submodules`。
-- 本仓库中的 4 个目录只是 submodule 指针，克隆后为空目录属正常。
+- 本仓库中的 5 个目录只是 submodule 指针，克隆后为空目录属正常。
 - 如需一次性拉取全部内容：`git submodule update --init --recursive`。
 
 ## 约定
